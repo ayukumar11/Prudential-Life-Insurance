@@ -1,5 +1,5 @@
 # Prudential-Life-Insurance
-![alt text](https://github.com/swifty1/Prudential-Life-Insurance/blob/master/insurance_hands.png)
+![alt text](https://github.com/swifty1/Prudential-Life-Insurance/blob/master/H2O%20Tutorial/insurance_hands.png)
 
 The project is done in R using :
 1) H20
